@@ -12,7 +12,7 @@ The project combines **Machine Learning model development** with **interactive w
 
 🔗 **Try the App:** `YOUR_STREAMLIT_APP_URL`
 
-🔗 **GitHub Repository:** `[YOUR_GITHUB_REPOSITORY_URL](https://github.com/RahmaAshrafAli-Engineer/Iris-Species-Predictor/edit/main/README.md)`
+🔗 **GitHub Repository:** `https://github.com/RahmaAshrafAli-Engineer/Iris-Species-Predictor/blob/main/README.md`
 
 ---
 
