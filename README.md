@@ -16,12 +16,6 @@ The project combines **Machine Learning model development** with **interactive w
 
 ---
 
-## 📸 Application Preview
-
-![Iris Species Predictor](images/iris-app.png)
-
----
-
 ## 🎯 Project Objective
 
 The goal of this project is to build a complete Machine Learning classification workflow — from preparing the dataset and training the model to integrating the trained model into an interactive web application.
@@ -235,7 +229,7 @@ Possible future improvements include:
 
 ## 👩‍💻 Author
 
-**Roka**
+**Rahma Ashraf Ali Faragallah**
 
 Machine Learning & AI Enthusiast
 
